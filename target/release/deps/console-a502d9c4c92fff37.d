@@ -1,0 +1,12 @@
+/Users/rithwik/spaces/rustlings/target/release/deps/console-a502d9c4c92fff37.rmeta: /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/rithwik/spaces/rustlings/target/release/deps/libconsole-a502d9c4c92fff37.rlib: /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/rithwik/spaces/rustlings/target/release/deps/console-a502d9c4c92fff37.d: /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs
+
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/lib.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/common_term.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/kb.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/term.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/unix_term.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.7.7/src/utils.rs:

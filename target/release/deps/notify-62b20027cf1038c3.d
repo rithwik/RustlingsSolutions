@@ -1,0 +1,12 @@
+/Users/rithwik/spaces/rustlings/target/release/deps/notify-62b20027cf1038c3.rmeta: /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/Users/rithwik/spaces/rustlings/target/release/deps/libnotify-62b20027cf1038c3.rlib: /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/Users/rithwik/spaces/rustlings/target/release/deps/notify-62b20027cf1038c3.d: /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/fsevent.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs:
+/Users/rithwik/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs:
